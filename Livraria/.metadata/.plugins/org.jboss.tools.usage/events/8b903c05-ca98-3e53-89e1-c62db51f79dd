@@ -1,0 +1,11 @@
+#Fri May 19 19:03:29 GFT 2017
+vl=0 \= failed, 1 \= successful
+l=Server Runtime ID
+ct=server
+d=1495231409107
+c=1
+cmp=server
+a=new
+cl=org.eclipse.jst.server.tomcat.85
+v=3.2.4
+s=0

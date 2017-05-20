@@ -1,0 +1,9 @@
+package br.com.livraria.DAO;
+
+import br.com.livraria.entity.Estado;
+
+public class EstadoDAO extends GenericDAO<Estado> {
+
+}
+
+
